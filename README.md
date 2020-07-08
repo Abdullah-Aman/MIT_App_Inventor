@@ -10,5 +10,4 @@ MIT_App_Inventor was used to build this app.
 # Some files related to this project are Attached:
 - apk file of the app.
 - Screenshot of the code on MIT App Inventor.
-- 
 
